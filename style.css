@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 30;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    line-height: 1.6;
+    
+}
+
+.box {
+    width: 400px; /* Aumente a largura da caixa */
+    margin: 0 auto;
+    background-color: rgb(38, 175, 90);
+    padding: 20px 15px 15px 15px; /* Ajuste do espaçamento interno da caixa */
+}
+
+.box .input { 
+    width: 100%;
+    margin-bottom: 15px; 
+    font-size: 20px; /* Ajuste do tamanho do texto dentro da caixa */
+
+
+}    
+.container-com-imagem {
+
+    background-image: url('fotos/cep-correio-nova.jpg');
+
+
+
+
+
+
+}
+    
+
+.botao-colorido {
+     
+    background-color: red;
+    color: #ffffff;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+
+.titulo {
+    color: rgb(0, 60, 255);
+    font-family: 'Courier New', Arial, Helvetica, sans-serif, monospace;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 25px;
+
+}
+
+/* Outros estilos específicos da sua página podem ser adicionados aqui */
